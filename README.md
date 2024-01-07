@@ -1,4 +1,6 @@
+check out case study 4 [here](https://github.com/Popsonn/danny-ma-s-case-study-4)
 # Danny ma's sql case study 3
+
 
 This dataset was obtained from [here](https://8weeksqlchallenge.com/case-study-3/). I solved business questions using postgresql.
 # Question 1 :How many customers has Foodie-Fi ever had?
