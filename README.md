@@ -1,4 +1,8 @@
 check out case study 4 [here](https://github.com/Popsonn/danny-ma-s-case-study-4)
+
+check out case study 5 [here](https://github.com/Popsonn/danny-ma-s-case-study-5)
+
+check out case study 6 [here](https://github.com/Popsonn/danny-ma-s-case-study-6)
 # Danny ma's sql case study 3
 
 
